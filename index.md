@@ -1,6 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Good start"
 ---
 
-
-Hi, this is a test
